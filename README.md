@@ -10,15 +10,11 @@ I'm a Computer Science undergraduate from the Birla Institute of Technology, Mes
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=callmegus4444&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=callmegus4444&theme=tokyonight&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=callmegus4444&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmegus4444&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=callmegus4444&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 🧮 Total Contributions
-![](https://github-contributor-stats.vercel.app/api?username=callmegus4444&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)<br/>
-![](https://komarev.com/ghpvc/?username=callmegus4444&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=callmegus4444&icon=0&color=0)](https://visitcount.itsvg.in)
